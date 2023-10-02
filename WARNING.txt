@@ -1,0 +1,4 @@
+Make sure that in outlook:
+Select File > Options > Mail. Under Send Messages, check the box Always use the default account when composing new messages.
+
+THIS NEEDS TO BE CHECKED AND THE DEFAULT ACCOUNT NEEDS TO BE THE ONE YOU WANT TO SEND FROM.
